@@ -1,0 +1,22 @@
+# GAMS generated outputs
+*.lst
+*.log
+*.gdx
+*.g00
+*.lxi
+*.pf
+
+# Solver/generated result exports
+*.sol
+*.trace
+*.trc
+
+# Local/editor files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# Python/cache artifacts, if future tooling is added
+__pycache__/
+*.pyc
